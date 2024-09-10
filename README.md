@@ -1,8 +1,7 @@
 # Hi there, I'm Arwa Hajahjah 👋
 
-I'm a Computer Science student at palestine polytechnic university, passionate about AI and Machine Learning engineering. I love building innovative solutions and continuously exploring new advancements in AI and ML.
+I'm a Computer Science student at Palestine Polytechnic University, passionate about AI and Machine Learning engineering. I love building innovative solutions and continuously exploring new advancements in AI and ML.
 
-![GitHub followers](https://img.shields.io/github/followers/arwahajahjah?label=Follow&style=social)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arwaalhajahjah)
 
 ## My Projects
