@@ -13,4 +13,8 @@ I'm a Computer Science student at palestine polytechnic university, passionate a
 - **Tools**: Git, Jupyter Notebook, VS Code
 
 ## GitHub Stats
-![Arwa Hajahjah's GitHub stats](https://github-readme-stats.vercel.app/api?username=arwahajahjah&show_icons
+![Arwa Hajahjah's GitHub stats](https://github-readme-stats.vercel.app/api?username=arwahajahjah&show_icons=true&theme=radical)
+
+## Some Photos of Me
+
+![Thanks for visiting](https://user-images.githubusercontent.com/arwa-hajahjah/thanks-for-visiting.gif)
