@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Arwa Hajahjah 👋
 
-<!--
-**arwahajahjah/arwahajahjah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at palestine polytechnic university, passionate about AI and Machine Learning engineering. I love building innovative solutions and continuously exploring new advancements in AI and ML.
 
-Here are some ideas to get you started:
+![GitHub followers](https://img.shields.io/github/followers/arwahajahjah?label=Follow&style=social)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arwaalhajahjah)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+- [ML project](https://github.com/arwahajahjah/My-first-ML-project): "ML project as a beginner.".
+
+## Technologies I Use
+- **Languages**: Python, C++
+- **Tools**: Git, Jupyter Notebook, VS Code
+
+## GitHub Stats
+![Arwa Hajahjah's GitHub stats](https://github-readme-stats.vercel.app/api?username=arwahajahjah&show_icons
