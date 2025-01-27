@@ -5,8 +5,10 @@ I'm a Computer Science student at Palestine Polytechnic University, passionate a
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arwaalhajahjah)
 
 ## My Projects
-- [ML project](https://github.com/arwahajahjah/My-first-ML-project): "ML project as a beginner.".
-
+- [Machine learning projects](https://github.com/arwahajahjah/machine_learning_projects.git): 
+- [Generative AI projects](https://github.com/arwahajahjah/generative-AI.git):
+- [Natural-language-processing ](https://github.com/arwahajahjah/Natural-language-processing.git):
+- [data-structures-projects](https://github.com/arwahajahjah/data-structures-projects.git):
 ## Technologies I Use
 - **Languages**: Python, C++
 - **Tools**: Git, Jupyter Notebook, VS Code
